@@ -58,7 +58,6 @@ if($isValidChecksum == "TRUE") {
 	}
 	
 
-}
 else {
 	echo "<b>Checksum mismatched.</b>";
 	//Process transaction as suspicious.
