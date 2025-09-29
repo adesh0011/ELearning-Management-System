@@ -14,7 +14,7 @@
       </div>
       <div class="vid-content" >
         <h1 class="my-content">Welcome to iSchool</h1>
-        <small class="my-content">Learn and Implement</small> <br>
+        <small class="my-content">Learn and Implements</small> <br>
 
 
         <?php
